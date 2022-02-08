@@ -3,9 +3,9 @@
 
 ### Резюме: [ссылка](https://github.com/B4D-1D34/B4D-1D34/blob/main/Koverznev_frontend_junior_cv_RU.pdf)
 
-### Со мной можно связаться через: rapkor4@gmail.com или https://t.me/eeegore
+### Со мной можно связаться через: rapkor4@gmail.com или [telegram](https://t.me/eeegore)
 
-### Список выполненных тестовых заданий для компаний: https://github.com/stars/B4D-1D34/lists/companies-test-tasks
+### Список выполненных тестовых заданий для компаний: [ссылка](https://github.com/stars/B4D-1D34/lists/companies-test-tasks)
 
 <br/>
 <br/>
@@ -15,9 +15,9 @@
 
 ### My CV: [link](https://github.com/B4D-1D34/B4D-1D34/blob/main/Koverznev_frontend_junior_cv_updated.pdf)
 
-### You can contact me via: rapkor4@gmail.com or https://t.me/eeegore
+### You can contact me via: rapkor4@gmail.com or [telegram](https://t.me/eeegore)
 
-### Completed test tasks list: https://github.com/stars/B4D-1D34/lists/companies-test-tasks
+### Completed test tasks list: [link](https://github.com/stars/B4D-1D34/lists/companies-test-tasks)
 <!--
 **B4D-1D34/B4D-1D34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
